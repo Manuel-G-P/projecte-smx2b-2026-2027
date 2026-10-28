@@ -246,9 +246,13 @@ El projecte aporta un metode simple de monitorització a gran escala dels endoll
 Els endolls envien les variables dels seus sensors a traves de routers especialitzats que estan configurats per permetre la conexio de qualsevol endoll amb les credencials electroniques creades per als endolls que ya venen establertes de fabrica, d'aqui s'envien per internet als servidor de  la companyia on poden ser consultades via web en qualsevol moment, per poder enllaçar els endolls es requereix d'un codi unic i una contrasenya grabads en la part del endoll que queda dins de la pared un cop instalat.
 
 En resum el sistema consta de:
+
 -Els endolls i els seus sensors.
+
 -Router especialitzats per recollir dades dels endolls reconeguts a traves de credencialds informatiques.
+
 -Bases de dades en els servidors de l'empresa on s'ordenen les dades.
+
 -Una web un contactar l'empresa, o consultar els endolls als quals hagis posat el codi i contrasenya corresponents.
 
 Tot aixó ha de ser utilitzat per el responsable de l'instalció electrica de les instalacions, a traves de la web nomes té que revisar cada x temps les variables dels endolls i en cas d'irregularitats anar a revisar o contactar amb qui correspongui, aixo per evitar posibles incidents ocasionats per endolls en mal estat sense necesitat de fer comprobacions manuals de cada endoll cada x temps, el que és un gast de temps considerable.
